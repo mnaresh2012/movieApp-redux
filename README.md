@@ -1,4 +1,4 @@
-# movieApp-redux ![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)
+# movieApp-redux ![GitHub version](http://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 movieApp code refactor.
 
 ### Dependencies & Dev-dependencies -
